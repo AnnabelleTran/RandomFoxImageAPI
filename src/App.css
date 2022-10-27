@@ -1,0 +1,11 @@
+.imgbox{
+  text-align: center;
+  margin: 1.5vw 20vw;
+  padding: 2vw 0vw;
+  background-color: lavender;
+  border: .25vw solid black;
+}
+  .imgbox img{
+    width: 50vw;
+  }
+
